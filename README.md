@@ -1,5 +1,5 @@
 
-# 🏠 E-Commerce-Advance-Filtering
+# 🛒 E-Commerce-Advance-Filtering
 
 This React e-commerce project features a comprehensive filtering system that enhances the user shopping experience by allowing customers to easily find the products they are looking for. The interface includes category filters, enabling users to browse shoes based on types such as sneakers, flats, sandals, and heels. A price range filter further refines search results according to the customer’s budget, with options ranging from $0 to over $150. Additionally, the color filter allows users to select shoes by specific colors like black, blue, red, green, and white. The project also features brand-specific filtering tabs for popular brands such as Nike, Adidas, Puma, and Vans, making it simpler for users to shop within their preferred brands. A search bar located at the top of the page allows for keyword-based searches, ensuring that customers can quickly locate specific items. Together, these advanced filtering and search features provide a streamlined and efficient shopping experience.
 
@@ -19,11 +19,11 @@ This React e-commerce project features a comprehensive filtering system that enh
 
 
 ## 🖥️ Screenshots
-
+## 🎨 Image 1
 ![التقاط](https://github.com/user-attachments/assets/68a0b633-0991-4dc8-aabb-7d1c930f3c6b)
 
 
-
+## 🎨 Image 2
 ![g](https://github.com/user-attachments/assets/1a62ce2e-6259-4486-9062-f7e56783160a)
 
 
