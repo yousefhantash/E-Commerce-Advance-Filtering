@@ -26,8 +26,11 @@ This React e-commerce project features a comprehensive filtering system that enh
 ## 🎨 Image 2
 ![g](https://github.com/user-attachments/assets/1a62ce2e-6259-4486-9062-f7e56783160a)
 
+## 🚀 Run
 
-
+```bash
+  https://ecommerce-filter-app.netlify.app/
+```
 
 ## 🚀 Run Locally
 
